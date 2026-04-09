@@ -42,3 +42,6 @@ A Python Streamlit application to take attendance using face recognition snapsho
 
 Archita Thakur
 ✉️ architath27@gmail.com
+
+Aarti
+✉️ aartiworkk@gmail.com
